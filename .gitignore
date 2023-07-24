@@ -35,6 +35,4 @@ build/
 
 ### Secrets ###
 src/main/resources/certs/**.pem
-src/main/resources/application.properties
 src/main/resources/application-test.properties
-src/main/resources/admin.properties
